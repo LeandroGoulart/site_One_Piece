@@ -43,7 +43,7 @@ main .personagem .imagem {
 
 .conteudo .nome-personagem {
     color: #ffffff;
-    font-size: 48px;
+    font-size: 50px;
     font-family: "Secular One";
     font-weight: 400;
     margin-bottom: 20px;
@@ -52,7 +52,7 @@ main .personagem .imagem {
 .conteudo .descricao {
     color: #ffffff;
     font-family: "Rubik";
-    line-height: 24px;
+    line-height: 28px;
 }
 
 .conteudo .logo {
