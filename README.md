@@ -1,6 +1,6 @@
 # One Piece Fan Page
 
-(Capa)[./src/imagens/image.png]
+![Capa do site](./src/imagens/image.png)
 
 Bem-vindo à página de fãs de One Piece! Aqui você encontrará informações sobre o anime como forma de expressar meu conhecimento em HTML, CSS E JavaScript.
 
